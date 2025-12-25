@@ -1,51 +1,80 @@
-🚨 “𝐖𝐞’𝐫𝐞 𝐏𝐫𝐨𝐟𝐢𝐭𝐚𝐛𝐥𝐞 — 𝐁𝐮𝐭 𝐀𝐫𝐞 𝐖𝐞 𝐋𝐞𝐚𝐯𝐢𝐧𝐠 𝐌𝐨𝐧𝐞𝐲 𝐨𝐧 𝐭𝐡𝐞 𝐓𝐚𝐛𝐥𝐞?”
-A retail company I worked with was doing well on paper —
+# Profitability Optimization & Hidden Revenue Analysis  
+### Retail Analytics Case Study
 
-📈 $9.7𝑴 𝒊𝒏 𝒔𝒂𝒍𝒆𝒔
-💰 17% 𝒑𝒓𝒐𝒇𝒊𝒕 𝒎𝒂𝒓𝒈𝒊𝒏
+---
 
-Not bad at all. But something didn’t sit right.
+## 📌 Project Overview
+This project focuses on uncovering hidden profit leaks within a retail business that appeared financially strong on the surface.  
+Despite healthy topline performance, deeper analysis revealed structural risks and missed revenue opportunities.
 
-So I asked a simple question:
-“Is this good… or could it be better?
+The objective was to move beyond surface-level KPIs and identify **where profit was truly generated — and where it was quietly leaking**.
 
-🔍 𝗜 𝗧𝗼𝗼𝗸 𝗮 𝗗𝗲𝗲𝗽𝗲𝗿 𝗟𝗼𝗼𝗸 — 𝗮𝗻𝗱 𝗙𝗼𝘂𝗻𝗱 𝗛𝗶𝗱𝗱𝗲𝗻 𝗣𝗿𝗼𝗳𝗶𝘁 𝗟𝗲𝗮𝗸𝘀:
+---
 
- 1️⃣ 𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝘿𝙚𝙥𝙚𝙣𝙙𝙚𝙣𝙘𝙮 
-• 61% of sales came from large deals
-• Top 5 customers = 25% of total revenue
-➡️ High risk if even one big client drops
+## 📊 Business Snapshot
+- **Total Sales:** $9.7M  
+- **Reported Profit Margin:** 17%
 
-2️⃣ 𝙍𝙚𝙜𝙞𝙤𝙣𝙖𝙡 𝙂𝙖𝙥𝙨
-• APAC had 51% of customers but low margins
-• NA had fewer customers, but higher profits
-➡️ Not all customers deliver equal value
+While these numbers indicated stability, they raised an important question:
 
-3️⃣ 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙄𝙢𝙗𝙖𝙡𝙖𝙣𝙘𝙚
-•Classic Cars = 39% of sales
-• Trains = only 2%
-➡️ Over-reliance on one category
+> *Are we optimized — or leaving money on the table?*
 
-4️⃣ 𝙐𝙣𝙙𝙚𝙧𝙪𝙨𝙚𝙙 𝙒𝙚𝙚𝙠end
-• Only 8% of revenue came during weekend 
-➡️ Over $1M in untapped potential
+---
 
-🧠 𝐌𝐲 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡 𝐚𝐬 𝐚 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫:
+## ⚠️ Key Business Challenges Identified
 
-✔️ Analyzed profitability by customer, product, and region
-✔️ Identified cost-to-serve differences and margin gaps
-✔️ Built a dynamic dashboard for leadership to see real profit drivers
-✔️ Proposed actionable strategies:
- 📍 Reduce customer concentration risk
- 📍 Shift focus to higher-margin regions
- 📍 Diversify product focus
- 📍 Optimize weekday campaigns
+### 1️⃣ Customer Concentration Risk
+- **61% of revenue** came from large deals  
+- **Top 5 customers contributed 25% of total sales**  
 
-🚀 𝐓𝐡𝐞 𝐈𝐦𝐩𝐚𝐜𝐭:
-✨ Profit margin potential jumped from 18% to 22–25%
-✨ Leadership gained clarity on what was truly driving profit
-✨ Decisions became faster, sharper, and backed by real insights.
+Heavy dependence on a small customer base exposed the business to high revenue risk.
 
-• 𝘎𝘰𝘰𝘥 𝘯𝘶𝘮𝘣𝘦𝘳𝘴 𝘥𝘰𝘯’𝘵 𝘢𝘭𝘸𝘢𝘺𝘴 𝘮𝘦𝘢𝘯 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘦𝘥 𝘱𝘦𝘳𝘧𝘰𝘳𝘮𝘢𝘯𝘤𝘦.
-𝘐 𝘩𝘦𝘭𝘱 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴𝘦𝘴 𝘨𝘰 𝘣𝘦𝘺𝘰𝘯𝘥 𝘴𝘶𝘳𝘧𝘢𝘤𝘦-𝘭𝘦𝘷𝘦𝘭 𝘮𝘦𝘵𝘳𝘪𝘤𝘴 𝘵𝘰 𝘶𝘯𝘤𝘰𝘷𝘦𝘳 𝘳𝘦𝘢𝘭 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘶𝘴𝘪𝘯𝘨 𝘥𝘢𝘵𝘢.
- 
+---
+
+### 2️⃣ Regional Profitability Gaps
+- **APAC:** 51% of customers but relatively low profit margins  
+- **North America:** Fewer customers with significantly higher profitability  
+
+Customer volume did not directly translate into profit contribution.
+
+---
+
+### 3️⃣ Product Portfolio Imbalance
+- **Classic Cars** accounted for **39% of total sales**  
+- **Trains** contributed only **2%**  
+
+Over-reliance on a single product category increased business risk and limited growth diversity.
+
+---
+
+### 4️⃣ Underutilized Weekend Revenue
+- Only **8% of revenue** was generated during weekends  
+
+This highlighted **over $1M in untapped revenue potential**.
+
+---
+
+## 🧠 Analytical Approach
+
+To address these issues, I applied a structured, business-driven analytics approach:
+
+- Profitability analysis by **customer, product, region, and time**  
+- Identification of **cost-to-serve differences** and margin gaps  
+- Development of an **interactive Power BI dashboard** for leadership visibility  
+- Translation of insights into **clear, actionable strategies**
+
+---
+
+## 🎯 Strategic Recommendations
+- Reduce dependency on high-risk customer concentration  
+- Shift focus toward higher-margin regions  
+- Diversify the product mix to balance revenue streams  
+- Optimize marketing and sales efforts to unlock weekend demand  
+
+---
+
+## 🚀 Business Impact
+- **Profit margin potential increased from ~18% to 22–25%**  
+- Leadership gained clarity on true profit drivers  
+- Faster, data-backed decision-mak
+
